@@ -54,8 +54,8 @@
   <a href="https://github.com/V343521/ShpackProject">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=V343521&repo=ShpackProject&theme=transparent&title_color=EBEBEB&border_color=EB0000&icon_color=FB8C00&text_color=EBEBEB" />
   </a>
-        <a href="https://github.com/V343521/SB-Save">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=V343521&repo=SB-Save&theme=transparent&title_color=EBEBEB&border_color=EB0000&icon_color=FB8C00&text_color=EBEBEB" />
+        <a href="https://github.com/V343521/SB-script">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=V343521&repo=SB-script&theme=transparent&title_color=EBEBEB&border_color=EB0000&icon_color=FB8C00&text_color=EBEBEB" />
   </a>
       <a href="https://github.com/mufnate-dotcom/B-W-script">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mufnate-dotcom&repo=B-W-script&theme=transparent&title_color=EBEBEB&border_color=EB0000&icon_color=FB8C00&text_color=EBEBEB" />
