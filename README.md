@@ -56,7 +56,7 @@
         <a href="https://github.com/V343521/SB-script">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=V343521&repo=SB-script&theme=transparent&title_color=EBEBEB&border_color=EBEBEB&icon_color=FB8C00&text_color=EBEBEB" />
   </a>
-      <a href="https://github.com/mufnate-dotcom/B-W-script">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mufnate-dotcom&repo=B-W-script&theme=transparent&title_color=EBEBEB&border_color=EBEBEB&icon_color=FB8C00&text_color=EBEBEB" />
+      <a href="https://github.com/V343521/B-W-script">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=V343521&repo=B-W-script&theme=transparent&title_color=EBEBEB&border_color=EBEBEB&icon_color=FB8C00&text_color=EBEBEB" />
   </a>
 </div>
