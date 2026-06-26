@@ -9,11 +9,11 @@
 <h3 align="center">🚀 Stats 📊</h3>
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=V343521&theme=transparent&short_numbers=true&mode=weekly&border=EB0000&stroke=EB0000&ring=EB0000&fire=FB8C00&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=V343521&theme=transparent&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly&fire=FB8C00&stroke=EBEBEB&border=EBEBEB&currStreakNum=EBEBEB&ring=FB8C00&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB&excludeDaysLabel=EBEBEB" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V343521&theme=transparent&layout=compact&langs_count=6&border_color=EB0000&title_color=EBEBEB&text_color=EBEBEB" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V343521&theme=transparent&layout=compact&langs_count=6&border_color=EBEBEB&title_color=EBEBEB&text_color=EBEBEB" alt="Top Languages" />
   </a>
 </p>
 
@@ -45,18 +45,18 @@
 ---
 <div align="center">
 <a href="https://github.com/V343521/Avalonia_Test">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=V343521&repo=Avalonia_Test&theme=transparent&title_color=EBEBEB&border_color=EB0000&icon_color=FB8C00&text_color=EBEBEB" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=V343521&repo=Avalonia_Test&theme=transparent&title_color=EBEBEB&border_color=EBEBEB&icon_color=FB8C00&text_color=EBEBEB" />
 </a>
   <a href="https://github.com/V343521/Low-cortisol-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=V343521&repo=Low-cortisol-project&theme=transparent&title_color=EBEBEB&border_color=EB0000&icon_color=FB8C00&text_color=EBEBEB" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=V343521&repo=Low-cortisol-project&theme=transparent&title_color=EBEBEB&border_color=EBEBEB&icon_color=FB8C00&text_color=EBEBEB" />
   </a>
   <a href="https://github.com/V343521/ShpackProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=V343521&repo=ShpackProject&theme=transparent&title_color=EBEBEB&border_color=EB0000&icon_color=FB8C00&text_color=EBEBEB" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=V343521&repo=ShpackProject&theme=transparent&title_color=EBEBEB&border_color=EBEBEB&icon_color=FB8C00&text_color=EBEBEB" />
   </a>
         <a href="https://github.com/V343521/SB-script">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=V343521&repo=SB-script&theme=transparent&title_color=EBEBEB&border_color=EB0000&icon_color=FB8C00&text_color=EBEBEB" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=V343521&repo=SB-script&theme=transparent&title_color=EBEBEB&border_color=EBEBEB&icon_color=FB8C00&text_color=EBEBEB" />
   </a>
       <a href="https://github.com/mufnate-dotcom/B-W-script">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mufnate-dotcom&repo=B-W-script&theme=transparent&title_color=EBEBEB&border_color=EB0000&icon_color=FB8C00&text_color=EBEBEB" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mufnate-dotcom&repo=B-W-script&theme=transparent&title_color=EBEBEB&border_color=EBEBEB&icon_color=FB8C00&text_color=EBEBEB" />
   </a>
 </div>
