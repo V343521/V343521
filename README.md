@@ -13,10 +13,10 @@
 </p>
 <p align="center">
   <a href="https://github.com/V343521">
-    <img src="./profile/stats.svg" alt="GitHub Stats" />
+    <img src="V343521/profile/stats.svg" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/V343521?tab=repositories">
-    <img src="./profile/top-langs.svg" alt="Top Languages" />
+    <img src="V343521/profile/top-langs.svg" alt="Top Languages" />
   </a>
 </p>
 
