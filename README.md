@@ -13,7 +13,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/V343521?tab=repositories">
-    <img src="./profile/top-langs.svg" alt="Top Languages" width="25%" />
+    <img src="./profile/top-langs.svg" alt="Top Languages" width="35%" />
   </a>
 </p>
 
