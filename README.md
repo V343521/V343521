@@ -12,9 +12,6 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=V343521&theme=transparent&short_numbers=true&mode=weekly&fire=FB8C00&stroke=EBEBEB&border=EBEBEB&currStreakNum=EBEBEB&ring=FB8C00&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB&excludeDaysLabel=EBEBEB" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/V343521">
-    <img src="V343521/profile/stats.svg" alt="GitHub Stats" />
-  </a>
 </p>
 
 ---
