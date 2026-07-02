@@ -13,7 +13,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V343521&theme=transparent&layout=compact&langs_count=6&border_color=EBEBEB&title_color=EBEBEB&text_color=EBEBEB" alt="Top Languages" />
+    <img src="https://github-stats-extended.vercel.app/api?username=V343521&theme=transparent&layout=compact&langs_count=6&border_color=EBEBEB&title_color=EBEBEB&text_color=EBEBEB" alt="Top Languages" />
   </a>
 </p>
 
