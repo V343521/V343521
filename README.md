@@ -13,8 +13,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/V343521?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V343521&layout=compact&langs_count=6&bg_color=00000000&border_color=EBEBEB&title_color=ffffff&text_color=ffffff&hide_border=false" alt="Top
-      Languages" width="40%" />
+    <img src="./profile/top-langs.svg" alt="Top Languages" width="40%" />
   </a>
 </p>
 
